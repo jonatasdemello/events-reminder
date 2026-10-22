@@ -1,0 +1,13 @@
+{
+  "name": "events-reminder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "List today's events and upcoming events within a configurable number of days.",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
